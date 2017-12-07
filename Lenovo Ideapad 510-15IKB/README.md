@@ -18,6 +18,8 @@
 * RealtekRTL8111.kext
 * Shiki.kext
 * USBInjectAll.kext
-* VoodooHDA.kext
 * VoodooTSCSync.kext
 * ZOldKexts.bak 
+
+### In /Library/Extensions
+* AppleBacklightInjector.kext

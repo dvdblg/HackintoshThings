@@ -172,11 +172,11 @@
 				<key>Make right alt into key</key>
 				<integer>0</integer>
 				<key>Make right control into key</key>
-				<integer>93</integer>
+				<integer>92</integer>
 				<key>Make shift + caps into Fn key</key>
 				<true/>
 				<key>Num Lock enabled at boot</key>
-				<false/>
+				<true/>
 				<key>Swap alt and windows key</key>
 				<false/>
 			</dict>
